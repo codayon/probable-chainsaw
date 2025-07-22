@@ -7,7 +7,7 @@ const About = () => {
     <section>
       <Container>
         <Flex className={"justify-center h-[80vh]"}>
-          <h1 className="text-6xl">About</h1>
+          <h1 className="text-5xl">About</h1>
         </Flex>
       </Container>
     </section>

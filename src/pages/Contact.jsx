@@ -7,7 +7,7 @@ const Contact = () => {
     <section>
       <Container>
         <Flex className={"justify-center h-[80vh]"}>
-          <h1 className="text-6xl">Contact</h1>
+          <h1 className="text-5xl">Contact</h1>
         </Flex>
       </Container>
     </section>
