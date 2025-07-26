@@ -7,7 +7,7 @@ const Footer = () => {
     <section className="py-[2.5vh]">
       <Container>
         <Flex className={"justify-center"}>
-          <p>GNU General Public License, version 3</p>
+          <p>The Unlicense</p>
         </Flex>
       </Container>
     </section>

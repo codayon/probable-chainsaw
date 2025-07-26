@@ -24,14 +24,14 @@ const Home = () => {
           <h1 className="text-5xl">Home</h1>
           <Flex className={"gap-10 py-10"}>
             <button
-              className="px-5 py-2 text-2xl bg-green-800 text-white rounded-sm cursor-pointer"
+              className="btn"
               onClick={incNum}
             >
               +
             </button>
             <span className="text-3xl">{count}</span>
             <button
-              class="px-5 py-2 text-2xl bg-red-800 text-white rounded-sm cursor-pointer"
+              class="btn"
               onClick={decNum}
             >
               -
