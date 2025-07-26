@@ -20,7 +20,7 @@ const Home = () => {
   return (
     <section>
       <Container>
-        <Flex className={"flex-col justify-center h-[80vh]"}>
+        <Flex className={"flex-col justify-center h-[85vh]"}>
           <h1 className="text-5xl">Home</h1>
           <Flex className={"gap-10 py-10"}>
             <button
